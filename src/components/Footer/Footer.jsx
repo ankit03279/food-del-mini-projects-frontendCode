@@ -7,7 +7,7 @@
 //     <div className='footer' id='footer'>
 //       <div className="footer-content">
 //         <div className="footer-content-left">
-//             <img src={assets.logo} alt="" />
+//             <img src={assets.logo_5} alt="" />
 //             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 //             <div className="footer-social-icons">
 //                 <img src={assets.facebook_icon} alt="" />
@@ -33,7 +33,7 @@
 //         </div>
 //       </div>
 //       <hr />
-//       <p className="footer-copyright">Copyright 2024 © Tomato.com - All Right Reserved.</p>
+//       <p className="footer-copyright">Copyright 2024 © Food Corner.com - All Right Reserved.</p>
 //     </div>
 //   )
 // }
@@ -49,9 +49,9 @@ const Footer = () => {
     <div className="footer" id="footer">
       <div className="footer-content">
         <div className="footer-content-left">
-          <img className='logo-1' src={assets.logo}></img>
+          <img className='logo-1' src={assets.logo_5}></img>
           <p>
-            Hungry? Order from Tomato. Fresh food, delivered fast.Your next delicious meal is just a tap away.<br/> Download the Tomato app and enjoy swift delivery.
+            Hungry? Order from Food Corner. Fresh food, delivered fast.Your next delicious meal is just a tap away.<br/> Download the Tomato app and enjoy swift delivery.
           </p>
           <div className="footer-social-icons">
             {/* <img src={assets.facebook_icon} alt="" />
@@ -86,7 +86,7 @@ const Footer = () => {
         </div>
       </div>
       <hr />
-      <p className='footer-copyright'>Copyright 2025 &copy; Tomato.com- All Rights Reserved.</p>
+      <p className='footer-copyright'>Copyright 2025 &copy; Food Corner.com- All Rights Reserved.</p>
       <p>@Ankit K Gautam</p>
     </div>
   );
