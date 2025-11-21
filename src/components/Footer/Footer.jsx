@@ -51,7 +51,7 @@ const Footer = () => {
         <div className="footer-content-left">
           {/* <img className='logo-1' src={assets.logo_5}></img> */}
           <p>
-            Hungry? Order from Food Corner. Fresh food, delivered fast.Your next delicious meal is just a tap away.<br/> Download the Tomato app and enjoy swift delivery.
+            Hungry? Order from Food Corner. Fresh food, delivered fast.Your next delicious meal is just a tap away.<br/> Download the Food Corner app and enjoy swift delivery.
           </p>
           <div className="footer-social-icons">
             {/* <img src={assets.facebook_icon} alt="" />
